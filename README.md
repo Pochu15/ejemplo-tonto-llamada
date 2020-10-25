@@ -1,3 +1,3 @@
-# prueba-hito-2
+# Ejemplo Tonto de llamadas a una API
 
-Hola esto es una prueba
+Tenéis una llamada a una API que devuelve la hora en el index.html. Sois libres de copiarlo y realizar cualquier modificación.
